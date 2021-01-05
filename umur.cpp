@@ -76,7 +76,7 @@ int main(){
 		exit(0);
 	}
 	
-	setcolor(11);cout<<">"; 
+	setcolor(11);cout<<" >"; 
 	setcolor(7);cout<<" Umur anda pada Tahun "; setcolor(11);cout<<"(";
 	setcolor(2);cout<< tahun;
 	setcolor(11);cout<<")"; setcolor(7);cout<<" adalah ";
