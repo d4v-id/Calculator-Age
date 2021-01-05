@@ -26,4 +26,5 @@ $ ./a.out
 
 # Support / Contact
 // https://saweria.co/vedd (Donasi)
+
 // d4vbusiness@gmail.com (Gmail)
