@@ -16,6 +16,7 @@ $ sudo g++ umur.cpp
 ```
 Termux :
 ```bash
+$ git clone https://github.com/d4v-id/Kalkulator-Umur/
 $ pkg install clang
 $ clang++ umur.cpp
 $ ./a.out
