@@ -1,6 +1,9 @@
 # Kalkulator-Umur
 Kalkulator Umur merupakan kalkulator yang bisa menghitung umur melalui tahun berapa yang di inginkan
 
+<img src="umur-photo.jpg">
+
+
 # Run
 Windows :
 > Download ZIP > Ekstrak > Buka "umur.exe"
@@ -21,9 +24,6 @@ $ pkg install clang
 $ clang++ umur.cpp
 $ ./a.out
 ```
-
-# Photo
-<img src="umur-photo.jpg">
 
 # Support / Contact
 // https://saweria.co/vedd (Donasi)
