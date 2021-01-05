@@ -23,3 +23,7 @@ $ ./a.out
 
 # Photo
 <img src="umur-photo.jpg">
+
+# Support / Contact
+// https://saweria.co/vedd (Donasi)
+// d4vbusiness@gmail.com (Gmail)
