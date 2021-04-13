@@ -1,5 +1,5 @@
-# Kalkulator-Umur
-Kalkulator Umur merupakan kalkulator yang bisa menghitung umur melalui tahun berapa yang di inginkan
+# Simple Calculator Age
+Simple calculator to get your age in different years.
 
 <img src="umur-photo.jpg">
 
